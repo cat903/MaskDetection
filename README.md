@@ -1,4 +1,5 @@
 # PROJECT_MASK_DETECTION 
+  - ## **Requirement:** [Download](https://nodejs.org/en/download/) & Install NodeJS if you don't have it on your system
   - step1-clone_repo: `git clone https://github.com/cat903/MaskDetection.git`
   - step2-install_dependencies: `npm i`
   - step3-start_application: `npm start`
