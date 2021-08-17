@@ -6,7 +6,7 @@ In the era of **Javascript** , Implementation of Machine Learning Algorithm usin
   - step1-clone_repo: `git clone https://github.com/cat903/MaskDetection.git`
   - step2-install_dependencies: `npm i`
   - step3-start_application: `npm start`
-  - step4-getsamples_forcalssifying:
+  - step4-getsamples_for_calssifying:
      - step4A: Put On Mask in Your Face
      - step4B: click on Button MaskOn *[This Captures Images for Training Purpose---Classifying MaskOn Images]*
      - step4C: change headpositions and redo step4B *[NOTE: MORE IMAGE MORE ACCURACY]*
@@ -28,7 +28,7 @@ In the era of **Javascript** , Implementation of Machine Learning Algorithm usin
     - [x] ProtoType
     - [x] Embed in Electron
     - [x] Client Side Training
-    - [x] Multiple Detection in Crowded Place
+    - [ ] Multiple Detection in Crowded Place
     - [ ] Accuracy
     - [ ] Efficency 
     - [ ] Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
