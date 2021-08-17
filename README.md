@@ -1,6 +1,6 @@
 # PROJECT_MASK_DETECTION
 # Overview
-In the era of **Javascript** , client side Implementation of Machine Learning Algorithm is quite easy.
+In the era of **Javascript** , client side Implementation of Machine Learning Algorithm is quite easy. This Project is Initialized To Detect If a Person is Wearing Mask & Collect Data from Public Places.
 # Installation 
   - ## **Requirement:** [Download](https://nodejs.org/en/download/) & Install NodeJS if you don't have it on your system
   - step1-clone_repo: `git clone https://github.com/cat903/MaskDetection.git`
@@ -28,6 +28,7 @@ In the era of **Javascript** , client side Implementation of Machine Learning Al
     - [x] ProtoType
     - [x] Embed in Electron
     - [x] Client Side Training
+    - [x] Multiple Detection in Crowded Place
     - [ ] Accuracy
     - [ ] Efficency 
     - [ ] Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
