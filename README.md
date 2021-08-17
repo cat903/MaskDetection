@@ -21,8 +21,9 @@
 
   - Current-Status: Pet_Project_PreStage
   - Goals:
-    - Accuracy
-    - Efficency 
-    - Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
-    - analyse feed and present data in json via REST api
-    - scalability
+    - [x] Demo_Proto
+    - [ ] Accuracy
+    - [ ] Efficency 
+    - [ ] Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
+    - [ ] analyse feed and present data in json via REST api
+    - [ ] scalability
