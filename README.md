@@ -17,3 +17,12 @@
 
   ![RealTime_MaskDetection](facemask_detection.png)
 
+# Project-Update
+
+  - Current-Status: Pet_Project_PreStage
+  - Goals:
+    - Accuracy
+    - Efficency 
+    - Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
+    - analyse feed and present data in json via REST api
+    - scalability
