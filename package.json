@@ -2,7 +2,7 @@
   "name": "maskdetection",
   "productName": "maskdetection",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "FaceMask Detection Using p5&ml5 mobilenet",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -12,7 +12,7 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
-  "author": "cat903 <tahmid00911@gmail.com>",
+  "author": "cat903",
   "license": "MIT",
   "config": {
     "forge": {

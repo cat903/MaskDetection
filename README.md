@@ -12,4 +12,8 @@
   - step5-train: click on button train and wait a bit till training finishes
   - step6-test: underwebcamfeed you will see blackbox indicating maskOn or maskOff
   - step7-save: click button save to download trained model and get model.json and models.weights.bin for future use
+  
+# Demo-RealTime_MaskDetection
+
+  ![RealTime_MaskDetection](facemask_detection.png)
 
