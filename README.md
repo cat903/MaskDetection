@@ -1,4 +1,7 @@
-# PROJECT_MASK_DETECTION 
+# PROJECT_MASK_DETECTION
+# Overview
+In the era of **Javascript** , client side Implementation of Machine Learning Algorithm is quite easy.
+# Installation 
   - ## **Requirement:** [Download](https://nodejs.org/en/download/) & Install NodeJS if you don't have it on your system
   - step1-clone_repo: `git clone https://github.com/cat903/MaskDetection.git`
   - step2-install_dependencies: `npm i`
@@ -23,6 +26,8 @@
   - Current-Status: Pet_Project_PreStage
   - Goals:
     - [x] ProtoType
+    - [x] Embed in Electron
+    - [x] Client Side Training
     - [ ] Accuracy
     - [ ] Efficency 
     - [ ] Get Feed From WebCam(webrtc)/IPCAM(rtsp) process feed in server-side
