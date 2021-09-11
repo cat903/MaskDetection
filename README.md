@@ -2,7 +2,7 @@
 # Overview
 In the era of **Javascript** , Implementation of Machine Learning Algorithm using JS is quite easy. This Project is Initialized To Detect If a Person is Wearing Mask & Collect Data from Public Places.
 
-![webbaseddetection](Blank diagram - Page 1.png)
+![webbaseddetection](https://github.com/cat903/MaskDetection/blob/master/Blank%20diagram%20-%20Page%201.png)
 
 # Installation 
   - ## **Requirement:** [Download](https://nodejs.org/en/download/) & Install NodeJS if you don't have it on your system
